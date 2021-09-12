@@ -5,4 +5,4 @@
 ### 📫 You can reach me at : 
 -                          G-Mail    : aalokbhuyar211@gmail.com,                           
 -                          LinkedIn  : linkedin.com/in/aalok-bhuyar-4b0655190/
-### 😃 I love to explore, learn and execute new things.
+### 😃 I love to explore, learn and impliment new things and technologies.
