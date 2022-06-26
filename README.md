@@ -8,7 +8,7 @@
 
 ### 😃 I love to explore, learn and impliment new things and technologies.
 
-<br />
+<!-- <br />
 
 
 <p align="center">
@@ -23,3 +23,4 @@
      </tr>
    </table>
 </p>
+ -->
