@@ -5,7 +5,7 @@
 ### 📫 You can reach me at : 
 -                          G-Mail    : aalokbhuyar211@gmail.com                     
 -                          LinkedIn  : www.linkedin.com/in/aalok-bhuyar
--                          [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](www.linkedin.com/in/aalok-bhuyar)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](www.linkedin.com/in/aalok-bhuyar)
 ### 😃 I love to explore, learn and impliment new things and technologies.
 
 <br />
