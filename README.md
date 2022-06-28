@@ -6,9 +6,9 @@
 -                          G-Mail    : aalokbhuyar211@gmail.com                     
 -                          LinkedIn  : www.linkedin.com/in/aalok-bhuyar
 
-### 😃 I love to explore, learn and impliment new things and technologies.
-
-<!-- <br />
+<!-- ### 😃 I love to explore, learn and impliment new things and technologies.
+ -->
+<br />
 
 
 <p align="center">
@@ -23,4 +23,4 @@
      </tr>
    </table>
 </p>
- -->
+
