@@ -20,7 +20,7 @@
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aalok-b&show_icons=true&theme=dark"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalok-b&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-         <td><img src="https://github-readme-stats.vercel.app/api?username=aalok-b&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true&theme=tokyonight&layout=compact&hide=html" alt="aalok-b" /></td>
+         <td><img alt="Devorein :: All Time Stats"src="https://github-readme-stats.vercel.app/api?username=aalok-b&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true&theme=tokyonight&layout=compact&hide=html" /></td>
      </tr>
    </table>
 </p>
