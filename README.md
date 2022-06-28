@@ -9,9 +9,9 @@
 <!-- ### 😃 I love to explore, learn and impliment new things and technologies.
  -->
 <br />
-![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=Waqar-107)
 
-<br/>
+
+<!-- <br/>
 
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
@@ -37,7 +37,7 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 </p>
 <br/>
-
+ -->
 
 
 <p align="center">
