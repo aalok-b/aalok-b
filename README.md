@@ -45,7 +45,7 @@
       <tr>
        <th>Profile Stats  </th>
        <th>Language Contribution</th>
-       <th>All Time Contribution</tr>
+       <th>All Time Stats/tr>
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aalok-b&show_icons=true&theme=tokyonight&layout=compact&hide=html"> </td>
