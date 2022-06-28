@@ -21,6 +21,7 @@
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aalok-b&show_icons=true&theme=dark"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalok-b&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
+    ![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=Waqar-107)
    </table>
 </p>
 
