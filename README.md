@@ -9,7 +9,7 @@
 <!-- ### 😃 I love to explore, learn and impliment new things and technologies.
  -->
 <br />
-[![@ronin's Holopin board](https://holopin.io/api/user/board?user=ronin)](https://holopin.io/@ronin)
+
 
 <!-- <br/>
 
