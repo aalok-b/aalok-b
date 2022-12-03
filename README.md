@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Aalok Bhuyar, welcome to my github profile 👨‍💻
-### 👀 I’m pre-final year at Indian Institute of Information Technology, Allahabad
-### 🌱 I’m currently exploring the world of IT and development
+### 👀 I’m pre-final year unergraduate at Indian Institute of Information Technology, Allahabad
+<!-- ### 🌱 I’m currently exploring the world of IT and development -->
 ### 👯 I’m looking forward to collaborate with developers to convert dreams to reality 
 ### 📫 You can reach me at : 
 -                          G-Mail    : aalokbhuyar211@gmail.com                     
