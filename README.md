@@ -11,12 +11,12 @@
 <br />
 
 <div>
- #<a href="https://imgbb.com/"><img src="https://i.ibb.co/cvRSvMW/912385470426660894.gif" alt="912385470426660894" border="0" height="30px"></a> Readme stats : 
+ # <a href="https://imgbb.com/"><img src="https://i.ibb.co/cvRSvMW/912385470426660894.gif" alt="912385470426660894" border="0" height="30px"></a> Readme stats : 
  <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aalok-b&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/aalok-b)
 
-#<a href="https://imgbb.com/"><img src="https://i.ibb.co/x3BkkRH/908346363639656488.gif" alt="908346363639656488" border="0" height="30px"></a> Github Stats:
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/x3BkkRH/908346363639656488.gif" alt="908346363639656488" border="0" height="30px"></a> Github Stats:
 
   <br/>
   
